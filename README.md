@@ -37,6 +37,12 @@ Key findings from the analysis include:
 
 ---
 
+## Project Preview
+![alt text](<blinkit folder/Blinkit dashboard.png>)
+
+
+---
+
 ## Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
